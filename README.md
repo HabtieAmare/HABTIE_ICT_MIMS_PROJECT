@@ -1,4 +1,4 @@
-# HABTIE PHP PROJECT
+# HABTIE ICT_MIMS PROJECT
 #the project title is ICT_MAINTENANCE INFORMATION MANAGEMENT SYSTEM
 #done for the partial fullfillment for our degree program
 #am Information Systems Student @2021 GC-Wolkite University
